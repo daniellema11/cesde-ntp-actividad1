@@ -5,7 +5,7 @@
 # Luego, llama o invoca a la función para que el mensaje se muestre.
 # Escribe tu código debajo de esta línea:
 def saludar():
-	print("Hola! Bienvenido al curso de Python.")
+    print("¡Hola! Bienvenido al curso de Python.")
 
 
 saludar()
@@ -16,7 +16,7 @@ saludar()
 # Luego, llama a la función pasándole dos números de tu elección e imprime el resultado.
 # Escribe tu código debajo de esta línea:
 def sumar(a, b):
-	return a + b
+    return a + b
 
 
 resultado = sumar(7, 5)
@@ -28,7 +28,7 @@ print(resultado)
 # Imprime el resultado de llamar a la función con el número 7 y con el número 10.
 # Escribe tu código debajo de esta línea:
 def es_par(numero):
-	return numero % 2 == 0
+    return numero % 2 == 0
 
 
 print(es_par(7))

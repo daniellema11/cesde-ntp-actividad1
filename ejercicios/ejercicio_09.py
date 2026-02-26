@@ -12,7 +12,7 @@ print(f"Tu color favorito es {color}")
 # Luego usa f-strings o concatenación para imprimir un mensaje como: "Vives en [ciudad], [país]".
 # Escribe tu código debajo de esta línea:
 ciudad = input("Ingresa tu ciudad de residencia: ")
-pais = input("Ingresa tu pais de origen: ")
+pais = input("Ingresa tu país de origen: ")
 print(f"Vives en {ciudad}, {pais}")
 
 

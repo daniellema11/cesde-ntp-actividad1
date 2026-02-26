@@ -4,7 +4,7 @@
 # personalizado que incluya su nombre.
 # Escribe tu código debajo de esta línea:
 nombre = input("Ingresa tu nombre: ")
-print(f"Hola, {nombre}! Bienvedido")
+print(f"Hola, {nombre}! Bienvenido")
 
 
 # Ejercicio 2: Pide al usuario que ingrese su edad como texto (input siempre devuelve texto).
@@ -15,7 +15,7 @@ print(f"Hola, {nombre}! Bienvedido")
 edad_texto = input("Ingresa tu edad: ")
 edad = int(edad_texto)
 edad_2050 = edad + 26
-print(f"En 2050 tendras {edad_2050} años.")
+print(f"En 2050 tendrás {edad_2050} años.")
 
 
 # Ejercicio 3: Pide al usuario que ingrese el precio de un producto. Convierte el valor ingresado 
